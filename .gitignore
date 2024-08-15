@@ -1,0 +1,6 @@
+*.bak
+
+# macOS
+.DS_Store
+._*
+
